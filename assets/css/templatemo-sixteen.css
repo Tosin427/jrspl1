@@ -1070,3 +1070,8 @@ footer .inner-content p a {
 		background-color: black !important;
 	}
 }
+
+.img-size {
+	width: 85%;
+	margin: 15px;
+}
